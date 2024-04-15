@@ -1,0 +1,42 @@
+Movie Catalog
+---
+
+Movie: The Godfather
+Year: 1972
+Director: Francis Ford Coppola
+Actors: Marlon Brando, Al Pacino, James Caan
+Category: Action
+Synopsis: The saga of the Corleone family in the Italian mafia of New York.
+---
+
+Movie: Fight Club
+Year: 1999
+Director: David Fincher
+Actors: Brad Pitt, Edward Norton, Helena Bonham Carter
+Category: Action
+Synopsis: A disillusioned white-collar worker forms an underground fight club.
+---
+
+Movie: Forrest Gump
+Year: 1994
+Director: Robert Zemeckis
+Actors: Tom Hanks, Robin Wright, Gary Sinise
+Category: Comedy
+Synopsis: The story of a man with low IQ who witnessed or influenced significant events of the 20th century in America, maintaining hope and love for his childhood passion, Jenny.
+---
+
+Movie: Titanic
+Year: 1997
+Director: James Cameron
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane
+Category: Romance
+Synopsis: A poor artist and a rich young woman meet and fall in love on the fateful voyage of the RMS Titanic.
+---
+
+Movie: La La Land
+Year: 2016
+Director: Damien Chazelle
+Actors: Ryan Gosling, Emma Stone, John Legend
+Category: Romance
+Synopsis: A jazz musician and an aspiring actress fall in love while pursuing their dreams in a city known for crushing hopes and breaking hearts.
+---
